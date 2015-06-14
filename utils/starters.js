@@ -15,5 +15,10 @@ module.exports = {
       user: 'driftyco',
       repo: 'ionic-starter-blank'
     }
+    {
+      name: 'User Intro'
+      user:diegonetto
+      repo: 'ionic-user-intro'
+    }
   ]
 };
