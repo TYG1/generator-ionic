@@ -16,8 +16,8 @@ module.exports = {
       repo: 'ionic-starter-blank'
     }
     {
-      name: 'User Intro'
-      user:diegonetto
+      name: 'User Intro',
+      user: 'diegonetto',
       repo: 'ionic-user-intro'
     }
   ]
